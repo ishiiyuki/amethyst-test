@@ -1,4 +1,4 @@
 (
-  title: "game001",
+  title: "amethyst-test",
   dimensions: Some((500, 500)),
 )
